@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Atribuição é opcional (CC0). Se quiser citar ou dar crédito, use estes dados."
+type: dataset
+title: "Kit Props Brasil Low Poly: props 3D low poly de cenário brasileiro"
+abstract: >-
+  Kit livre de props 3D low poly (glTF/GLB) com cenário brasileiro: natureza, fauna, rua, rural, beira de rio,
+  tecnologia sustentável e sinais de poluição, para jogos educativos e city builders. Quase todos têm até 150
+  triângulos. Cada modelo é gerado por um script Python no Blender, com paleta de cores única, sem texturas.
+  Nasceu do jogo educativo Guardião da Água e complementa o Kit Cidade Low Poly.
+authors:
+  - family-names: Rotondo
+    given-names: Kayque
+  - family-names: Roxinol
+    given-names: Cláudia Dias
+license: CC0-1.0
+repository-code: "https://github.com/kayquer/kit-props-brasil-lowpoly"
+keywords:
+  - low poly
+  - 3D
+  - glTF
+  - Blender
+  - props
+  - game assets
+  - CC0
+  - Brasil
+  - environmental storytelling
+  - pollution
+  - educational games
+  - free 3D models
+  - public domain
+  - GLB
+  - Godot
+  - Unity
+  - three.js

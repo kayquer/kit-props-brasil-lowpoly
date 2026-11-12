@@ -1,0 +1,450 @@
+{
+ "arvores/araucaria": {
+  "categoria": "arvores",
+  "id": "araucaria",
+  "tris": 548,
+  "kb": 31.1,
+  "descricao": "Araucária (pinheiro-do-paraná): tronco reto e alto, galhos subindo em candelabro e copa achatada em camadas verde-escuras no topo, com uma pinha."
+ },
+ "arvores/buriti": {
+  "categoria": "arvores",
+  "id": "buriti",
+  "tris": 636,
+  "kb": 37.9,
+  "descricao": "Buriti (palmeira das veredas): estipe alto e liso num chão encharcado, coroa de folhas caindo em volta e cachos de cocos marrons."
+ },
+ "arvores/ipe_amarelo": {
+  "categoria": "arvores",
+  "id": "ipe_amarelo",
+  "tris": 388,
+  "kb": 27.7,
+  "descricao": "Ipê-amarelo (árvore nativa): tronco torto em três trechos com dois galhos, copa aberta de vários tufos amarelos facetados e flores caídas no chão em volta."
+ },
+ "detalhados/cisterna": {
+  "categoria": "detalhados",
+  "id": "cisterna",
+  "tris": 600,
+  "kb": 35.6,
+  "descricao": "Cisterna de placas (semiárido): tanque branco de concreto com faixa azul, tampa cônica, cano trazendo a água da calha do telhado, bomba manual e balde na frente."
+ },
+ "detalhados/composteira": {
+  "categoria": "detalhados",
+  "id": "composteira",
+  "tris": 1332,
+  "kb": 83.2,
+  "descricao": "Composteira de dois módulos de ripas de madeira: um com composto pronto, outro com restos de folhas e cascas, e uma pá encostada na frente."
+ },
+ "detalhados/lixeira_seletiva": {
+  "categoria": "detalhados",
+  "id": "lixeira_seletiva",
+  "tris": 936,
+  "kb": 50.3,
+  "descricao": "Lixeira seletiva de rua: quatro cestos (azul papel, vermelho plástico, verde vidro, amarelo metal) presos numa travessa sobre dois postes, cada um com boca escura e etiqueta clara na frente; base de concreto."
+ },
+ "detalhados/ponto_onibus": {
+  "categoria": "detalhados",
+  "id": "ponto_onibus",
+  "tris": 480,
+  "kb": 38.2,
+  "descricao": "Ponto de ônibus com telhado verde: abrigo de metal com fundo de vidro, banco, cobertura com grama e plantas (segura a água da chuva) e placa azul do ponto ao lado."
+ },
+ "fauna/cachorro_caramelo": {
+  "categoria": "fauna",
+  "id": "cachorro_caramelo",
+  "tris": 108,
+  "kb": 8.3,
+  "descricao": "Cachorro caramelo: vira-lata deitado tomando sol, de orelhas caídas e peito claro, olhando para a frente."
+ },
+ "fauna/capivara": {
+  "categoria": "fauna",
+  "id": "capivara",
+  "tris": 116,
+  "kb": 8.4,
+  "descricao": "Capivara: roedor marrom de corpo arredondado e focinho quadrado, de frente para a câmera."
+ },
+ "fauna/garca": {
+  "categoria": "fauna",
+  "id": "garca",
+  "tris": 80,
+  "kb": 7.2,
+  "descricao": "Garça branca: ave pernalta em pé na beira d'água, pescoço em curva e bico amarelo apontando para a frente."
+ },
+ "fauna/tartaruga": {
+  "categoria": "fauna",
+  "id": "tartaruga",
+  "tris": 110,
+  "kb": 8.1,
+  "descricao": "Tartaruga de rio: casco abaulado verde-escuro com a borda clara, cabeça e quatro patas para fora."
+ },
+ "fauna/vaca": {
+  "categoria": "fauna",
+  "id": "vaca",
+  "tris": 128,
+  "kb": 10.2,
+  "descricao": "Vaca malhada de pasto: corpo branco com manchas pretas, focinho rosa e chifres curtos, de frente para a câmera."
+ },
+ "natureza/aguape": {
+  "categoria": "natureza",
+  "id": "aguape",
+  "tris": 132,
+  "kb": 12.2,
+  "descricao": "Aguapés: tufos de folhas redondas boiando juntos, com espigas de flores lilás (crescem onde a água tem esgoto)."
+ },
+ "natureza/arbustos": {
+  "categoria": "natureza",
+  "id": "arbustos",
+  "tris": 128,
+  "kb": 12.2,
+  "descricao": "Arbustos de canteiro: quatro tufos em verdes variados com algumas flores rosas e amarelas."
+ },
+ "natureza/capim_alto": {
+  "categoria": "natureza",
+  "id": "capim_alto",
+  "tris": 54,
+  "kb": 6.3,
+  "descricao": "Capim alto: tufo de folhas finas verde-amareladas, inclinadas para os lados como mato de beira de estrada."
+ },
+ "natureza/cupinzeiro": {
+  "categoria": "natureza",
+  "id": "cupinzeiro",
+  "tris": 54,
+  "kb": 5.9,
+  "descricao": "Cupinzeiro: montinho de terra vermelha de pasto, alto e irregular, com uma torre menor ao lado."
+ },
+ "natureza/flores_campo": {
+  "categoria": "natureza",
+  "id": "flores_campo",
+  "tris": 136,
+  "kb": 12.3,
+  "descricao": "Flores do campo: florzinhas brancas, amarelas e rosas em hastes finas sobre um tufo baixo de folhas."
+ },
+ "natureza/mandacaru": {
+  "categoria": "natureza",
+  "id": "mandacaru",
+  "tris": 88,
+  "kb": 6.3,
+  "descricao": "Mandacaru: cacto do sertão com o tronco reto e dois braços subindo, para encostas secas."
+ },
+ "natureza/matacao": {
+  "categoria": "natureza",
+  "id": "matacao",
+  "tris": 78,
+  "kb": 8.9,
+  "descricao": "Matacão: pedra grande e arredondada de pasto, com musgo no topo e capim no pé."
+ },
+ "natureza/pedras": {
+  "categoria": "natureza",
+  "id": "pedras",
+  "tris": 84,
+  "kb": 9.3,
+  "descricao": "Pedras de beira de rio: três pedras facetadas de tamanhos diferentes com tufos de capim."
+ },
+ "natureza/taboa": {
+  "categoria": "natureza",
+  "id": "taboa",
+  "tris": 136,
+  "kb": 10.7,
+  "descricao": "Taboas de brejo: hastes altas com as espigas marrons e folhas compridas, para a beira d'água."
+ },
+ "natureza/toco": {
+  "categoria": "natureza",
+  "id": "toco",
+  "tris": 96,
+  "kb": 7.4,
+  "descricao": "Toco de árvore cortada: tronco baixo com o topo claro dos anéis e duas raízes saindo do chão."
+ },
+ "natureza/tronco_caido": {
+  "categoria": "natureza",
+  "id": "tronco_caido",
+  "tris": 88,
+  "kb": 8.7,
+  "descricao": "Tronco caído: tora deitada na mata com as pontas claras e um cogumelo vermelho em cima."
+ },
+ "natureza/vitoria_regia": {
+  "categoria": "natureza",
+  "id": "vitoria_regia",
+  "tris": 148,
+  "kb": 9.9,
+  "descricao": "Vitória-régia: folhas redondas de borda levantada boiando na água, com uma flor rosa no meio."
+ },
+ "poluicao/entulho": {
+  "categoria": "poluicao",
+  "id": "entulho",
+  "tris": 102,
+  "kb": 9.3,
+  "descricao": "Entulho: monte de tijolos quebrados, areia, pedaço de concreto e uma tábua, restos de obra jogados no terreno."
+ },
+ "poluicao/espuma_rio": {
+  "categoria": "poluicao",
+  "id": "espuma_rio",
+  "tris": 100,
+  "kb": 8.7,
+  "descricao": "Espuma de poluição: manchas de espuma branca boiando na água, de detergente e esgoto."
+ },
+ "poluicao/lixo_flutuante": {
+  "categoria": "poluicao",
+  "id": "lixo_flutuante",
+  "tris": 128,
+  "kb": 11.3,
+  "descricao": "Lixo boiando no rio: garrafas PET e sacolas plásticas juntas na superfície da água."
+ },
+ "poluicao/manilha_esgoto": {
+  "categoria": "poluicao",
+  "id": "manilha_esgoto",
+  "tris": 128,
+  "kb": 11.6,
+  "descricao": "Manilha de esgoto: cano de concreto saindo do barranco e despejando um fio de água escura para a frente.  A boca da manilha olha para a frente (-Y): o fio escuro desce até z = 0 e forma uma poça com espuma."
+ },
+ "poluicao/monte_lixo": {
+  "categoria": "poluicao",
+  "id": "monte_lixo",
+  "tris": 136,
+  "kb": 13.8,
+  "descricao": "Monte de lixo: sacos pretos e coloridos, caixas de papelão e latas jogados num terreno."
+ },
+ "poluicao/peixe_morto": {
+  "categoria": "poluicao",
+  "id": "peixe_morto",
+  "tris": 92,
+  "kb": 9.2,
+  "descricao": "Peixes mortos boiando: dois peixes prateados de barriga para cima na água poluída (sem sangue)."
+ },
+ "poluicao/pneus_velhos": {
+  "categoria": "poluicao",
+  "id": "pneus_velhos",
+  "tris": 136,
+  "kb": 8.3,
+  "descricao": "Pneus velhos: dois pneus empilhados com água parada dentro e um terceiro largado ao lado (criadouro do mosquito)."
+ },
+ "poluicao/saco_lixo": {
+  "categoria": "poluicao",
+  "id": "saco_lixo",
+  "tris": 78,
+  "kb": 6.9,
+  "descricao": "Sacos de lixo: três sacos pretos amarrados, largados juntos na calçada."
+ },
+ "poluicao/tambor_enferrujado": {
+  "categoria": "poluicao",
+  "id": "tambor_enferrujado",
+  "tris": 132,
+  "kb": 9.8,
+  "descricao": "Tambor enferrujado: barril de metal velho largado, vazando uma poça escura no chão."
+ },
+ "rio/canoa": {
+  "categoria": "rio",
+  "id": "canoa",
+  "tris": 132,
+  "kb": 8.2,
+  "descricao": "Canoa de madeira de pescador boiando: casco pontudo em duas camadas, dois bancos e o remo apoiado."
+ },
+ "rio/rede_pesca": {
+  "categoria": "rio",
+  "id": "rede_pesca",
+  "tris": 120,
+  "kb": 9.7,
+  "descricao": "Rede de pesca verde secando ao sol, pendurada e caída entre duas estacas na beira do rio, com boias laranja."
+ },
+ "rio/trapiche": {
+  "categoria": "rio",
+  "id": "trapiche",
+  "tris": 120,
+  "kb": 8.1,
+  "descricao": "Trapiche: píer pequeno de tábuas que sai da margem para a frente, sobre estacas curtas, para atracar canoas.  A base (y = +0,3) fica na margem e o píer avança 1,4 para a frente (-Y), por cima da água; as estacas vão de z = 0 (superfície) até o deck, então o mesmo modelo serve na água e numa vitrine no chão."
+ },
+ "rua/banco_praca": {
+  "categoria": "rua",
+  "id": "banco_praca",
+  "tris": 96,
+  "kb": 6.9,
+  "descricao": "Banco de praça: assento e encosto de ripas de madeira sobre dois pés de ferro escuro com braços."
+ },
+ "rua/barraca_feira": {
+  "categoria": "rua",
+  "id": "barraca_feira",
+  "tris": 140,
+  "kb": 12.8,
+  "descricao": "Barraca de feira: toldo listrado vermelho e branco sobre quatro varas e uma bancada com caixotes de frutas."
+ },
+ "rua/bebedouro": {
+  "categoria": "rua",
+  "id": "bebedouro",
+  "tris": 128,
+  "kb": 9.2,
+  "descricao": "Bebedouro público: pedestal de concreto, cuba turquesa com bica de metal e uma tigela de água para os animais."
+ },
+ "rua/bicicletario": {
+  "categoria": "rua",
+  "id": "bicicletario",
+  "tris": 148,
+  "kb": 10.9,
+  "descricao": "Bicicletário: base de concreto com dois arcos amarelos em U invertido e uma bicicleta vermelha presa."
+ },
+ "rua/bueiro": {
+  "categoria": "rua",
+  "id": "bueiro",
+  "tris": 92,
+  "kb": 6.8,
+  "descricao": "Bueiro: tampa redonda de ferro com grelha de drenagem, rente ao chão num anel de concreto."
+ },
+ "rua/caixa_dagua": {
+  "categoria": "rua",
+  "id": "caixa_dagua",
+  "tris": 80,
+  "kb": 6.9,
+  "descricao": "Caixa d'água de polietileno: tanque azul de tampa cônica numa base baixa de concreto, de quintal ou laje."
+ },
+ "rua/carrinho_pipoca": {
+  "categoria": "rua",
+  "id": "carrinho_pipoca",
+  "tris": 112,
+  "kb": 11.4,
+  "descricao": "Carrinho de pipoca: caixa vermelha com a vitrine de vidro, duas rodas, guidão e guarda-sol vermelho e branco."
+ },
+ "rua/cone_transito": {
+  "categoria": "rua",
+  "id": "cone_transito",
+  "tris": 52,
+  "kb": 4.3,
+  "descricao": "Cone de trânsito laranja com faixa branca, sobre a base quadrada."
+ },
+ "rua/hidrante": {
+  "categoria": "rua",
+  "id": "hidrante",
+  "tris": 98,
+  "kb": 7.6,
+  "descricao": "Hidrante de rua: corpo vermelho com tampa amarela e três saídas, sobre uma base de concreto."
+ },
+ "rua/lixeira_grade": {
+  "categoria": "rua",
+  "id": "lixeira_grade",
+  "tris": 140,
+  "kb": 10.4,
+  "descricao": "Lixeira de grade: cesto aberto de barras de metal no topo de um poste, com um saco de lixo dentro."
+ },
+ "rua/mesa_cadeiras": {
+  "categoria": "rua",
+  "id": "mesa_cadeiras",
+  "tris": 128,
+  "kb": 7.6,
+  "descricao": "Mesa e duas cadeiras de plástico brancas na calçada, como as de bar de bairro (sem logotipo)."
+ },
+ "rua/orelhao": {
+  "categoria": "rua",
+  "id": "orelhao",
+  "tris": 84,
+  "kb": 9.4,
+  "descricao": "Orelhão: cabine telefônica em forma de concha laranja num pé de metal, aberta para a frente (sem marca)."
+ },
+ "rua/placa_rua": {
+  "categoria": "rua",
+  "id": "placa_rua",
+  "tris": 36,
+  "kb": 4.3,
+  "descricao": "Placa de rua: placa azul com faixa branca (sem letras) no alto de um poste fino de metal."
+ },
+ "rua/poste_concreto": {
+  "categoria": "rua",
+  "id": "poste_concreto",
+  "tris": 96,
+  "kb": 9.0,
+  "descricao": "Poste de concreto de rua: pilar afinando para cima, travessa com isoladores e braço com a luminária acesa."
+ },
+ "rural/caixotes": {
+  "categoria": "rural",
+  "id": "caixotes",
+  "tris": 108,
+  "kb": 8.7,
+  "descricao": "Caixotes de madeira empilhados com laranjas e tomates, como os da colheita no sítio."
+ },
+ "rural/cerca_mourao": {
+  "categoria": "rural",
+  "id": "cerca_mourao",
+  "tris": 60,
+  "kb": 5.0,
+  "descricao": "Cerca de mourões: três estacas de madeira tortas ligadas por dois fios de arame."
+ },
+ "rural/colmeia": {
+  "categoria": "rural",
+  "id": "colmeia",
+  "tris": 72,
+  "kb": 7.2,
+  "descricao": "Colmeia de abelhas: duas caixas brancas empilhadas com tampa azul e entrada escura, num cavalete de madeira."
+ },
+ "rural/espantalho": {
+  "categoria": "rural",
+  "id": "espantalho",
+  "tris": 120,
+  "kb": 10.1,
+  "descricao": "Espantalho: camisa azul numa cruz de madeira, cabeça de palha e chapéu de palha, com palha saindo das mangas."
+ },
+ "rural/fardo_feno": {
+  "categoria": "rural",
+  "id": "fardo_feno",
+  "tris": 84,
+  "kb": 5.7,
+  "descricao": "Fardo de feno redondo: rolo de palha deitado no pasto, com as faces das pontas mais escuras."
+ },
+ "rural/horta": {
+  "categoria": "rural",
+  "id": "horta",
+  "tris": 144,
+  "kb": 12.7,
+  "descricao": "Canteiro de horta: caixa de madeira com terra, uma fileira de alfaces e outra de cenouras."
+ },
+ "rural/porteira": {
+  "categoria": "rural",
+  "id": "porteira",
+  "tris": 84,
+  "kb": 6.3,
+  "descricao": "Porteira de fazenda: portão de madeira com quatro ripas e uma diagonal, entre dois mourões grossos."
+ },
+ "tecnologia/barril_chuva": {
+  "categoria": "tecnologia",
+  "id": "barril_chuva",
+  "tris": 124,
+  "kb": 11.2,
+  "descricao": "Barril de captação de chuva: tambor azul num estrado, com o cano da calha descendo, torneira e marcador de nível."
+ },
+ "tecnologia/boia_rio": {
+  "categoria": "tecnologia",
+  "id": "boia_rio",
+  "tris": 128,
+  "kb": 11.1,
+  "descricao": "Boia de monitoramento do rio: flutuador amarelo com mastro, plaquinha solar, sensor e luz vermelha."
+ },
+ "tecnologia/hidrometro": {
+  "categoria": "tecnologia",
+  "id": "hidrometro",
+  "tris": 80,
+  "kb": 7.8,
+  "descricao": "Hidrômetro: caixinha de metal do relógio de água num pé de concreto, com o visor azul na frente e o cano entrando."
+ },
+ "tecnologia/lixeiras_coleta": {
+  "categoria": "tecnologia",
+  "id": "lixeiras_coleta",
+  "tris": 120,
+  "kb": 11.6,
+  "descricao": "Lixeiras de coleta seletiva simples: três lixeiras lado a lado (azul, vermelha e verde) numa base de concreto."
+ },
+ "tecnologia/placa_educativa": {
+  "categoria": "tecnologia",
+  "id": "placa_educativa",
+  "tris": 132,
+  "kb": 13.6,
+  "descricao": "Placa educativa de beira de rio: quadro de madeira com telhadinho, gota azul e árvore desenhadas (sem letras)."
+ },
+ "tecnologia/pluviometro": {
+  "categoria": "tecnologia",
+  "id": "pluviometro",
+  "tris": 88,
+  "kb": 8.5,
+  "descricao": "Pluviômetro: funil e tubo medidor de chuva preso num poste de madeira, com a escala de água na frente."
+ },
+ "tecnologia/poste_solar": {
+  "categoria": "tecnologia",
+  "id": "poste_solar",
+  "tris": 112,
+  "kb": 9.8,
+  "descricao": "Poste solar: mastro com placa solar inclinada no topo, bateria no meio e braço com luminária de LED."
+ }
+}
