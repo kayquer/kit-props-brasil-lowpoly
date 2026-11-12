@@ -46,9 +46,9 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 ## Catalog
 
 <!-- catalogo:inicio -->
-**64 models** in 9 categories.
+**100 models** in 9 categories.
 
-### Nature · Natureza (12)
+### Nature · Natureza (16)
 
 ![Low poly nature 3D models](previews/natureza.jpg)
 
@@ -56,7 +56,11 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 |---|---|---|---:|
 | <img src="previews/natureza/aguape.jpg" width="120" alt="Floating water hyacinths with lilac flowers (grow in sewage-rich water)"> | [`aguape`](models/natureza/aguape.glb) | Floating water hyacinths with lilac flowers (grow in sewage-rich water) | 132 |
 | <img src="previews/natureza/arbustos.jpg" width="120" alt="Flowering shrubs"> | [`arbustos`](models/natureza/arbustos.glb) | Flowering shrubs | 128 |
+| <img src="previews/natureza/bambu.jpg" width="120" alt="Bamboo clump: five green culms with darker nodes and leaf tufts"> | [`bambu`](models/natureza/bambu.glb) | Bamboo clump: five green culms with darker nodes and leaf tufts | 132 |
+| <img src="previews/natureza/bananeira.jpg" width="120" alt="Banana plant clump with wide fanned leaves and a green bunch"> | [`bananeira`](models/natureza/bananeira.glb) | Banana plant clump with wide fanned leaves and a green bunch | 112 |
+| <img src="previews/natureza/bromelia.jpg" width="120" alt="Bromeliad rosette with a red center"> | [`bromelia`](models/natureza/bromelia.glb) | Bromeliad rosette with a red center | 116 |
 | <img src="previews/natureza/capim_alto.jpg" width="120" alt="Tall grass tuft"> | [`capim_alto`](models/natureza/capim_alto.glb) | Tall grass tuft | 54 |
+| <img src="previews/natureza/coqueiro.jpg" width="120" alt="Coconut palm with a thin curved trunk, drooping fronds and coconuts"> | [`coqueiro`](models/natureza/coqueiro.glb) | Coconut palm with a thin curved trunk, drooping fronds and coconuts | 140 |
 | <img src="previews/natureza/cupinzeiro.jpg" width="120" alt="Red-earth termite mound"> | [`cupinzeiro`](models/natureza/cupinzeiro.glb) | Red-earth termite mound | 54 |
 | <img src="previews/natureza/flores_campo.jpg" width="120" alt="Wildflowers"> | [`flores_campo`](models/natureza/flores_campo.glb) | Wildflowers | 136 |
 | <img src="previews/natureza/mandacaru.jpg" width="120" alt="Mandacaru cactus with two arms"> | [`mandacaru`](models/natureza/mandacaru.glb) | Mandacaru cactus with two arms | 88 |
@@ -67,19 +71,27 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 | <img src="previews/natureza/tronco_caido.jpg" width="120" alt="Fallen log with a mushroom"> | [`tronco_caido`](models/natureza/tronco_caido.glb) | Fallen log with a mushroom | 88 |
 | <img src="previews/natureza/vitoria_regia.jpg" width="120" alt="Giant water lilies (vitória-régia) with a pink flower, floating"> | [`vitoria_regia`](models/natureza/vitoria_regia.glb) | Giant water lilies (vitória-régia) with a pink flower, floating | 148 |
 
-### Wildlife and animals · Fauna (5)
+### Wildlife and animals · Fauna (13)
 
 ![Low poly wildlife and animals 3D models](previews/fauna.jpg)
 
 | | Model | Description | Tris |
 |---|---|---|---:|
+| <img src="previews/fauna/arara.jpg" width="120" alt="Scarlet macaw with blue wings perched on a dry branch"> | [`arara`](models/fauna/arara.glb) | Scarlet macaw with blue wings perched on a dry branch | 118 |
 | <img src="previews/fauna/cachorro_caramelo.jpg" width="120" alt="Caramel mutt dog lying down (Brazil's beloved street dog)"> | [`cachorro_caramelo`](models/fauna/cachorro_caramelo.glb) | Caramel mutt dog lying down (Brazil's beloved street dog) | 108 |
 | <img src="previews/fauna/capivara.jpg" width="120" alt="Capybara"> | [`capivara`](models/fauna/capivara.glb) | Capybara | 116 |
 | <img src="previews/fauna/garca.jpg" width="120" alt="White egret standing by the water"> | [`garca`](models/fauna/garca.glb) | White egret standing by the water | 80 |
+| <img src="previews/fauna/lambaris.jpg" width="120" alt="School of five small silver fish just under the water surface"> | [`lambaris`](models/fauna/lambaris.glb) | School of five small silver fish just under the water surface | 120 |
+| <img src="previews/fauna/ninho_joao_de_barro.jpg" width="120" alt="Rufous hornero mud nest on a fence post, with the bird"> | [`ninho_joao_de_barro`](models/fauna/ninho_joao_de_barro.glb) | Rufous hornero mud nest on a fence post, with the bird | 72 |
+| <img src="previews/fauna/quati.jpg" width="120" alt="Coati with a long snout and a raised striped tail"> | [`quati`](models/fauna/quati.glb) | Coati with a long snout and a raised striped tail | 112 |
+| <img src="previews/fauna/sapo.jpg" width="120" alt="Green frog sitting on a riverbank pebble"> | [`sapo`](models/fauna/sapo.glb) | Green frog sitting on a riverbank pebble | 104 |
+| <img src="previews/fauna/tamandua.jpg" width="120" alt="Giant anteater with a long snout and a big bushy tail"> | [`tamandua`](models/fauna/tamandua.glb) | Giant anteater with a long snout and a big bushy tail | 84 |
 | <img src="previews/fauna/tartaruga.jpg" width="120" alt="River turtle"> | [`tartaruga`](models/fauna/tartaruga.glb) | River turtle | 110 |
+| <img src="previews/fauna/tatu.jpg" width="120" alt="Armadillo with a banded gray shell"> | [`tatu`](models/fauna/tatu.glb) | Armadillo with a banded gray shell | 128 |
+| <img src="previews/fauna/tucano.jpg" width="120" alt="Toucan with a huge orange beak perched on a short stump"> | [`tucano`](models/fauna/tucano.glb) | Toucan with a huge orange beak perched on a short stump | 108 |
 | <img src="previews/fauna/vaca.jpg" width="120" alt="Spotted pasture cow"> | [`vaca`](models/fauna/vaca.glb) | Spotted pasture cow | 128 |
 
-### Street and neighborhood · Rua e bairro (14)
+### Street and neighborhood · Rua e bairro (20)
 
 ![Low poly street and neighborhood 3D models](previews/rua.jpg)
 
@@ -89,18 +101,24 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 | <img src="previews/rua/barraca_feira.jpg" width="120" alt="Street market stall with a striped awning and fruit crates"> | [`barraca_feira`](models/rua/barraca_feira.glb) | Street market stall with a striped awning and fruit crates | 140 |
 | <img src="previews/rua/bebedouro.jpg" width="120" alt="Public drinking fountain with a pet bowl"> | [`bebedouro`](models/rua/bebedouro.glb) | Public drinking fountain with a pet bowl | 128 |
 | <img src="previews/rua/bicicletario.jpg" width="120" alt="Bike rack with a bicycle"> | [`bicicletario`](models/rua/bicicletario.glb) | Bike rack with a bicycle | 148 |
+| <img src="previews/rua/botijao.jpg" width="120" alt="Gray kitchen gas cylinder with handle"> | [`botijao`](models/rua/botijao.glb) | Gray kitchen gas cylinder with handle | 120 |
 | <img src="previews/rua/bueiro.jpg" width="120" alt="Round storm drain / manhole"> | [`bueiro`](models/rua/bueiro.glb) | Round storm drain / manhole | 92 |
 | <img src="previews/rua/caixa_dagua.jpg" width="120" alt="Blue polyethylene water tank"> | [`caixa_dagua`](models/rua/caixa_dagua.glb) | Blue polyethylene water tank | 80 |
+| <img src="previews/rua/carrinho_mao.jpg" width="120" alt="Wheelbarrow full of sand"> | [`carrinho_mao`](models/rua/carrinho_mao.glb) | Wheelbarrow full of sand | 100 |
 | <img src="previews/rua/carrinho_pipoca.jpg" width="120" alt="Popcorn cart with umbrella"> | [`carrinho_pipoca`](models/rua/carrinho_pipoca.glb) | Popcorn cart with umbrella | 112 |
+| <img src="previews/rua/cavalete_pf.jpg" width="120" alt="A-frame sidewalk sign with a chalkboard showing a plate (no text)"> | [`cavalete_pf`](models/rua/cavalete_pf.glb) | A-frame sidewalk sign with a chalkboard showing a plate (no text) | 84 |
 | <img src="previews/rua/cone_transito.jpg" width="120" alt="Traffic cone"> | [`cone_transito`](models/rua/cone_transito.glb) | Traffic cone | 52 |
 | <img src="previews/rua/hidrante.jpg" width="120" alt="Fire hydrant"> | [`hidrante`](models/rua/hidrante.glb) | Fire hydrant | 98 |
 | <img src="previews/rua/lixeira_grade.jpg" width="120" alt="Raised wire trash basket on a post"> | [`lixeira_grade`](models/rua/lixeira_grade.glb) | Raised wire trash basket on a post | 140 |
 | <img src="previews/rua/mesa_cadeiras.jpg" width="120" alt="White plastic table and two chairs (no logos)"> | [`mesa_cadeiras`](models/rua/mesa_cadeiras.glb) | White plastic table and two chairs (no logos) | 128 |
+| <img src="previews/rua/monte_areia.jpg" width="120" alt="Construction sand pile with a shovel stuck in it"> | [`monte_areia`](models/rua/monte_areia.glb) | Construction sand pile with a shovel stuck in it | 48 |
 | <img src="previews/rua/orelhao.jpg" width="120" alt="Brazilian shell-shaped public phone booth (orelhão, no brand)"> | [`orelhao`](models/rua/orelhao.glb) | Brazilian shell-shaped public phone booth (orelhão, no brand) | 84 |
 | <img src="previews/rua/placa_rua.jpg" width="120" alt="Blue street name sign (no letters)"> | [`placa_rua`](models/rua/placa_rua.glb) | Blue street name sign (no letters) | 36 |
 | <img src="previews/rua/poste_concreto.jpg" width="120" alt="Concrete utility pole with a street light"> | [`poste_concreto`](models/rua/poste_concreto.glb) | Concrete utility pole with a street light | 96 |
+| <img src="previews/rua/tanque_lavar.jpg" width="120" alt="Cement laundry sink with tap and a blue soap bar"> | [`tanque_lavar`](models/rua/tanque_lavar.glb) | Cement laundry sink with tap and a blue soap bar | 84 |
+| <img src="previews/rua/varal.jpg" width="120" alt="Clothesline between two bamboo forks with three colorful clothes"> | [`varal`](models/rua/varal.glb) | Clothesline between two bamboo forks with three colorful clothes | 84 |
 
-### Countryside · Rural (7)
+### Countryside · Rural (12)
 
 ![Low poly countryside 3D models](previews/rural.jpg)
 
@@ -108,19 +126,27 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 |---|---|---|---:|
 | <img src="previews/rural/caixotes.jpg" width="120" alt="Stacked wooden crates with fruit"> | [`caixotes`](models/rural/caixotes.glb) | Stacked wooden crates with fruit | 108 |
 | <img src="previews/rural/cerca_mourao.jpg" width="120" alt="Wooden post and wire fence section"> | [`cerca_mourao`](models/rural/cerca_mourao.glb) | Wooden post and wire fence section | 60 |
+| <img src="previews/rural/cocho_gado.jpg" width="120" alt="Wooden cattle water trough with a mineral salt block"> | [`cocho_gado`](models/rural/cocho_gado.glb) | Wooden cattle water trough with a mineral salt block | 96 |
 | <img src="previews/rural/colmeia.jpg" width="120" alt="Beehive boxes on a stand"> | [`colmeia`](models/rural/colmeia.glb) | Beehive boxes on a stand | 72 |
 | <img src="previews/rural/espantalho.jpg" width="120" alt="Scarecrow"> | [`espantalho`](models/rural/espantalho.glb) | Scarecrow | 120 |
 | <img src="previews/rural/fardo_feno.jpg" width="120" alt="Round hay bale"> | [`fardo_feno`](models/rural/fardo_feno.glb) | Round hay bale | 84 |
 | <img src="previews/rural/horta.jpg" width="120" alt="Raised vegetable bed"> | [`horta`](models/rural/horta.glb) | Raised vegetable bed | 144 |
+| <img src="previews/rural/latao_leite.jpg" width="120" alt="Two aluminum milk cans on a wooden pallet"> | [`latao_leite`](models/rural/latao_leite.glb) | Two aluminum milk cans on a wooden pallet | 108 |
+| <img src="previews/rural/moinho_vento.jpg" width="120" alt="Water-pumping windmill on a thin metal tower with a small tank"> | [`moinho_vento`](models/rural/moinho_vento.glb) | Water-pumping windmill on a thin metal tower with a small tank | 136 |
+| <img src="previews/rural/pilha_lenha.jpg" width="120" alt="Stacked eucalyptus firewood between two stakes"> | [`pilha_lenha`](models/rural/pilha_lenha.glb) | Stacked eucalyptus firewood between two stakes | 120 |
+| <img src="previews/rural/poco_caipira.jpg" width="120" alt="Brick countryside well with windlass, small roof and bucket"> | [`poco_caipira`](models/rural/poco_caipira.glb) | Brick countryside well with windlass, small roof and bucket | 124 |
 | <img src="previews/rural/porteira.jpg" width="120" alt="Wooden farm gate"> | [`porteira`](models/rural/porteira.glb) | Wooden farm gate | 84 |
 
-### River and riverside · Rio e beira d'água (3)
+### River and riverside · Rio e beira d'água (6)
 
 ![Low poly river and riverside 3D models](previews/rio.jpg)
 
 | | Model | Description | Tris |
 |---|---|---|---:|
+| <img src="previews/rio/bombona_flutuante.jpg" width="120" alt="Floating platform of two blue plastic drums under planks"> | [`bombona_flutuante`](models/rio/bombona_flutuante.glb) | Floating platform of two blue plastic drums under planks | 116 |
 | <img src="previews/rio/canoa.jpg" width="120" alt="Wooden fishing canoe, floating"> | [`canoa`](models/rio/canoa.glb) | Wooden fishing canoe, floating | 132 |
+| <img src="previews/rio/covo.jpg" width="120" alt="Woven cylindrical fish trap lying on the bank, funnel facing the water"> | [`covo`](models/rio/covo.glb) | Woven cylindrical fish trap lying on the bank, funnel facing the water | 100 |
+| <img src="previews/rio/pescaria.jpg" width="120" alt="Bamboo fishing rod staked on the bank with line and float, dip net and bait bucket"> | [`pescaria`](models/rio/pescaria.glb) | Bamboo fishing rod staked on the bank with line and float, dip net and bait bucket | 98 |
 | <img src="previews/rio/rede_pesca.jpg" width="120" alt="Fishing net drying between two stakes"> | [`rede_pesca`](models/rio/rede_pesca.glb) | Fishing net drying between two stakes | 120 |
 | <img src="previews/rio/trapiche.jpg" width="120" alt="Small wooden pier that juts forward over the water"> | [`trapiche`](models/rio/trapiche.glb) | Small wooden pier that juts forward over the water | 120 |
 
@@ -138,21 +164,31 @@ projects; modify and redistribute it. Attribution is optional (see [CITATION.cff
 | <img src="previews/tecnologia/pluviometro.jpg" width="120" alt="Rain gauge on a post"> | [`pluviometro`](models/tecnologia/pluviometro.glb) | Rain gauge on a post | 88 |
 | <img src="previews/tecnologia/poste_solar.jpg" width="120" alt="Solar street light"> | [`poste_solar`](models/tecnologia/poste_solar.glb) | Solar street light | 112 |
 
-### Pollution signs · Sinais de poluição (9)
+### Pollution signs · Sinais de poluição (19)
 
 ![Low poly pollution signs 3D models](previews/poluicao.jpg)
 
 | | Model | Description | Tris |
 |---|---|---|---:|
+| <img src="previews/poluicao/barranco_erodido.jpg" width="120" alt="Eroded red-earth riverbank collapsing with exposed roots"> | [`barranco_erodido`](models/poluicao/barranco_erodido.glb) | Eroded red-earth riverbank collapsing with exposed roots | 140 |
+| <img src="previews/poluicao/cacamba_entulho.jpg" width="120" alt="Small yellow dumpster overflowing with rubble"> | [`cacamba_entulho`](models/poluicao/cacamba_entulho.glb) | Small yellow dumpster overflowing with rubble | 88 |
+| <img src="previews/poluicao/cano_pvc.jpg" width="120" alt="Improvised PVC pipe pouring dark sewage from the bank into the water"> | [`cano_pvc`](models/poluicao/cano_pvc.glb) | Improvised PVC pipe pouring dark sewage from the bank into the water | 92 |
+| <img src="previews/poluicao/carcaca_carro.jpg" width="120" alt="Rusty abandoned car shell without wheels on concrete blocks"> | [`carcaca_carro`](models/poluicao/carcaca_carro.glb) | Rusty abandoned car shell without wheels on concrete blocks | 96 |
+| <img src="previews/poluicao/carrinho_mercado.jpg" width="120" alt="Shopping cart tipped half-sunk in a stream"> | [`carrinho_mercado`](models/poluicao/carrinho_mercado.glb) | Shopping cart tipped half-sunk in a stream | 68 |
 | <img src="previews/poluicao/entulho.jpg" width="120" alt="Construction rubble pile"> | [`entulho`](models/poluicao/entulho.glb) | Construction rubble pile | 102 |
 | <img src="previews/poluicao/espuma_rio.jpg" width="120" alt="Pollution foam floating on a river"> | [`espuma_rio`](models/poluicao/espuma_rio.glb) | Pollution foam floating on a river | 100 |
+| <img src="previews/poluicao/galao_agrotoxico.jpg" width="120" alt="Empty unlabeled pesticide jugs dumped with a dark leak stain"> | [`galao_agrotoxico`](models/poluicao/galao_agrotoxico.glb) | Empty unlabeled pesticide jugs dumped with a dark leak stain | 104 |
+| <img src="previews/poluicao/geladeira_velha.jpg" width="120" alt="Rusty old fridge dumped on its back with the door ajar"> | [`geladeira_velha`](models/poluicao/geladeira_velha.glb) | Rusty old fridge dumped on its back with the door ajar | 60 |
 | <img src="previews/poluicao/lixo_flutuante.jpg" width="120" alt="Floating plastic bottles and bags"> | [`lixo_flutuante`](models/poluicao/lixo_flutuante.glb) | Floating plastic bottles and bags | 128 |
 | <img src="previews/poluicao/manilha_esgoto.jpg" width="120" alt="Concrete sewage pipe dumping dark water from a riverbank"> | [`manilha_esgoto`](models/poluicao/manilha_esgoto.glb) | Concrete sewage pipe dumping dark water from a riverbank | 128 |
 | <img src="previews/poluicao/monte_lixo.jpg" width="120" alt="Illegal trash dump pile"> | [`monte_lixo`](models/poluicao/monte_lixo.glb) | Illegal trash dump pile | 136 |
 | <img src="previews/poluicao/peixe_morto.jpg" width="120" alt="Dead fish floating belly-up (no gore)"> | [`peixe_morto`](models/poluicao/peixe_morto.glb) | Dead fish floating belly-up (no gore) | 92 |
+| <img src="previews/poluicao/pilha_toras.jpg" width="120" alt="Pile of thick felled logs waiting for the truck (deforestation)"> | [`pilha_toras`](models/poluicao/pilha_toras.glb) | Pile of thick felled logs waiting for the truck (deforestation) | 144 |
 | <img src="previews/poluicao/pneus_velhos.jpg" width="120" alt="Old tires holding stagnant water"> | [`pneus_velhos`](models/poluicao/pneus_velhos.glb) | Old tires holding stagnant water | 136 |
 | <img src="previews/poluicao/saco_lixo.jpg" width="120" alt="Black trash bags"> | [`saco_lixo`](models/poluicao/saco_lixo.glb) | Black trash bags | 78 |
+| <img src="previews/poluicao/sofa_velho.jpg" width="120" alt="Abandoned old sofa with a torn cushion"> | [`sofa_velho`](models/poluicao/sofa_velho.glb) | Abandoned old sofa with a torn cushion | 72 |
 | <img src="previews/poluicao/tambor_enferrujado.jpg" width="120" alt="Rusty leaking drum"> | [`tambor_enferrujado`](models/poluicao/tambor_enferrujado.glb) | Rusty leaking drum | 132 |
+| <img src="previews/poluicao/toco_serrado.jpg" width="120" alt="Freshly sawn tree stump with sawdust and wood chips (deforestation)"> | [`toco_serrado`](models/poluicao/toco_serrado.glb) | Freshly sawn tree stump with sawdust and wood chips (deforestation) | 102 |
 
 ### Detailed (up to 1,500 tris) · Detalhados (até 1.500 tris) (4)
 

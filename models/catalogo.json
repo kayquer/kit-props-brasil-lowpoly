@@ -48,6 +48,13 @@
   "kb": 38.2,
   "descricao": "Ponto de ônibus com telhado verde: abrigo de metal com fundo de vidro, banco, cobertura com grama e plantas (segura a água da chuva) e placa azul do ponto ao lado."
  },
+ "fauna/arara": {
+  "categoria": "fauna",
+  "id": "arara",
+  "tris": 118,
+  "kb": 10.6,
+  "descricao": "Arara-vermelha pousada num galho seco baixo: corpo vermelho, asas azuis e a cauda comprida caindo para trás."
+ },
  "fauna/cachorro_caramelo": {
   "categoria": "fauna",
   "id": "cachorro_caramelo",
@@ -69,12 +76,61 @@
   "kb": 7.2,
   "descricao": "Garça branca: ave pernalta em pé na beira d'água, pescoço em curva e bico amarelo apontando para a frente."
  },
+ "fauna/lambaris": {
+  "categoria": "fauna",
+  "id": "lambaris",
+  "tris": 120,
+  "kb": 11.0,
+  "descricao": "Cardume de lambaris: cinco peixinhos prateados nadando juntos logo abaixo da superfície da água."
+ },
+ "fauna/ninho_joao_de_barro": {
+  "categoria": "fauna",
+  "id": "ninho_joao_de_barro",
+  "tris": 72,
+  "kb": 8.6,
+  "descricao": "Ninho de joão-de-barro: casinha redonda de barro no alto de um mourão, com a entrada escura de lado e o passarinho na frente."
+ },
+ "fauna/quati": {
+  "categoria": "fauna",
+  "id": "quati",
+  "tris": 112,
+  "kb": 9.4,
+  "descricao": "Quati: bicho marrom de focinho comprido e arrebitado, com a cauda listrada levantada bem alto atrás."
+ },
+ "fauna/sapo": {
+  "categoria": "fauna",
+  "id": "sapo",
+  "tris": 104,
+  "kb": 10.5,
+  "descricao": "Sapo verde sentado numa pedrinha da margem, com os olhos saltados em cima e as patas dobradas dos lados."
+ },
+ "fauna/tamandua": {
+  "categoria": "fauna",
+  "id": "tamandua",
+  "tris": 84,
+  "kb": 7.4,
+  "descricao": "Tamanduá-bandeira: corpo acinzentado com a faixa preta no ombro, focinho comprido e fino e a cauda enorme de bandeira."
+ },
  "fauna/tartaruga": {
   "categoria": "fauna",
   "id": "tartaruga",
   "tris": 110,
   "kb": 8.1,
   "descricao": "Tartaruga de rio: casco abaulado verde-escuro com a borda clara, cabeça e quatro patas para fora."
+ },
+ "fauna/tatu": {
+  "categoria": "fauna",
+  "id": "tatu",
+  "tris": 128,
+  "kb": 9.8,
+  "descricao": "Tatu: casco cinza em faixas, cabeça pontuda com orelhinhas para a frente e rabo fino atrás."
+ },
+ "fauna/tucano": {
+  "categoria": "fauna",
+  "id": "tucano",
+  "tris": 108,
+  "kb": 10.4,
+  "descricao": "Tucano: ave preta de peito amarelo pousada num toco baixo, com o bico laranja enorme apontando para a frente."
  },
  "fauna/vaca": {
   "categoria": "fauna",
@@ -97,12 +153,40 @@
   "kb": 12.2,
   "descricao": "Arbustos de canteiro: quatro tufos em verdes variados com algumas flores rosas e amarelas."
  },
+ "natureza/bambu": {
+  "categoria": "natureza",
+  "id": "bambu",
+  "tris": 132,
+  "kb": 9.6,
+  "descricao": "Moita de bambu: cinco colmos verdes com nós mais escuros, levemente abertos, e tufos de folhinhas no alto."
+ },
+ "natureza/bananeira": {
+  "categoria": "natureza",
+  "id": "bananeira",
+  "tris": 112,
+  "kb": 9.6,
+  "descricao": "Bananeira: touceira de tronco curto e grosso com folhas largas abertas em leque e um cacho de banana verde."
+ },
+ "natureza/bromelia": {
+  "categoria": "natureza",
+  "id": "bromelia",
+  "tris": 116,
+  "kb": 9.6,
+  "descricao": "Bromélia: roseta de folhas largas e duras abertas em volta de um centro vermelho, rente ao chão."
+ },
  "natureza/capim_alto": {
   "categoria": "natureza",
   "id": "capim_alto",
   "tris": 54,
   "kb": 6.3,
   "descricao": "Capim alto: tufo de folhas finas verde-amareladas, inclinadas para os lados como mato de beira de estrada."
+ },
+ "natureza/coqueiro": {
+  "categoria": "natureza",
+  "id": "coqueiro",
+  "tris": 140,
+  "kb": 11.1,
+  "descricao": "Coqueiro: tronco fino e curvo em três trechos, coroa de folhas compridas caindo em volta e um cacho de cocos."
  },
  "natureza/cupinzeiro": {
   "categoria": "natureza",
@@ -167,6 +251,41 @@
   "kb": 9.9,
   "descricao": "Vitória-régia: folhas redondas de borda levantada boiando na água, com uma flor rosa no meio."
  },
+ "poluicao/barranco_erodido": {
+  "categoria": "poluicao",
+  "id": "barranco_erodido",
+  "tris": 140,
+  "kb": 12.6,
+  "descricao": "Barranco erodido sem mata ciliar: terra vermelha desmoronando para a frente (a água), com raízes expostas e torrões caídos.  A face desmoronada olha para a frente (-Y): o jogo vira a frente para a água."
+ },
+ "poluicao/cacamba_entulho": {
+  "categoria": "poluicao",
+  "id": "cacamba_entulho",
+  "tris": 88,
+  "kb": 9.7,
+  "descricao": "Caçamba de entulho amarela, pequena, transbordando de tijolos, restos de concreto e tábuas quebradas."
+ },
+ "poluicao/cano_pvc": {
+  "categoria": "poluicao",
+  "id": "cano_pvc",
+  "tris": 92,
+  "kb": 8.7,
+  "descricao": "Cano de PVC improvisado saindo do barranco e despejando um fio de esgoto escuro para a frente, na água.  A boca do cano olha para a frente (-Y): o jogo vira a frente para a água."
+ },
+ "poluicao/carcaca_carro": {
+  "categoria": "poluicao",
+  "id": "carcaca_carro",
+  "tris": 96,
+  "kb": 7.7,
+  "descricao": "Carcaça de carro abandonado: lataria enferrujada sem rodas, janelas vazias, apoiada em blocos de concreto."
+ },
+ "poluicao/carrinho_mercado": {
+  "categoria": "poluicao",
+  "id": "carrinho_mercado",
+  "tris": 68,
+  "kb": 6.7,
+  "descricao": "Carrinho de supermercado jogado no córrego: cesto de arame meio afundado e inclinado, rodinhas para o alto."
+ },
  "poluicao/entulho": {
   "categoria": "poluicao",
   "id": "entulho",
@@ -180,6 +299,20 @@
   "tris": 100,
   "kb": 8.7,
   "descricao": "Espuma de poluição: manchas de espuma branca boiando na água, de detergente e esgoto."
+ },
+ "poluicao/galao_agrotoxico": {
+  "categoria": "poluicao",
+  "id": "galao_agrotoxico",
+  "tris": 104,
+  "kb": 9.2,
+  "descricao": "Galões de agrotóxico vazios jogados no chão (sem rótulo), um tombado, com uma mancha escura de vazamento."
+ },
+ "poluicao/geladeira_velha": {
+  "categoria": "poluicao",
+  "id": "geladeira_velha",
+  "tris": 60,
+  "kb": 6.3,
+  "descricao": "Geladeira velha tombada no terreno baldio: caixa branca deitada com manchas de ferrugem e a porta entreaberta."
  },
  "poluicao/lixo_flutuante": {
   "categoria": "poluicao",
@@ -209,6 +342,13 @@
   "kb": 9.2,
   "descricao": "Peixes mortos boiando: dois peixes prateados de barriga para cima na água poluída (sem sangue)."
  },
+ "poluicao/pilha_toras": {
+  "categoria": "poluicao",
+  "id": "pilha_toras",
+  "tris": 144,
+  "kb": 9.0,
+  "descricao": "Pilha de toras grossas de mata derrubada, empilhadas na clareira esperando o caminhão, com as pontas cortadas claras."
+ },
  "poluicao/pneus_velhos": {
   "categoria": "poluicao",
   "id": "pneus_velhos",
@@ -223,6 +363,13 @@
   "kb": 6.9,
   "descricao": "Sacos de lixo: três sacos pretos amarrados, largados juntos na calçada."
  },
+ "poluicao/sofa_velho": {
+  "categoria": "poluicao",
+  "id": "sofa_velho",
+  "tris": 72,
+  "kb": 7.1,
+  "descricao": "Sofá velho abandonado na calçada: estofado marrom desbotado, almofada torta e um rasgo mostrando a espuma amarela."
+ },
  "poluicao/tambor_enferrujado": {
   "categoria": "poluicao",
   "id": "tambor_enferrujado",
@@ -230,12 +377,40 @@
   "kb": 9.8,
   "descricao": "Tambor enferrujado: barril de metal velho largado, vazando uma poça escura no chão."
  },
+ "poluicao/toco_serrado": {
+  "categoria": "poluicao",
+  "id": "toco_serrado",
+  "tris": 102,
+  "kb": 7.8,
+  "descricao": "Toco recém-serrado: corte claro e liso no topo, serragem amontoada em volta e lascas de madeira no chão (desmatamento)."
+ },
+ "rio/bombona_flutuante": {
+  "categoria": "rio",
+  "id": "bombona_flutuante",
+  "tris": 116,
+  "kb": 8.3,
+  "descricao": "Flutuante de bombonas: dois tambores azuis de plástico amarrados sob um tablado de tábuas, boiando no rio."
+ },
  "rio/canoa": {
   "categoria": "rio",
   "id": "canoa",
   "tris": 132,
   "kb": 8.2,
   "descricao": "Canoa de madeira de pescador boiando: casco pontudo em duas camadas, dois bancos e o remo apoiado."
+ },
+ "rio/covo": {
+  "categoria": "rio",
+  "id": "covo",
+  "tris": 100,
+  "kb": 7.5,
+  "descricao": "Covo de pesca: armadilha cilíndrica de tala trançada deitada na beira, com a boca de funil virada para a água (frente)."
+ },
+ "rio/pescaria": {
+  "categoria": "rio",
+  "id": "pescaria",
+  "tris": 98,
+  "kb": 11.8,
+  "descricao": "Pescaria na margem: vara de bambu fincada no barranco com a linha e a boia na água à frente, puçá e balde ao lado."
  },
  "rio/rede_pesca": {
   "categoria": "rio",
@@ -279,6 +454,13 @@
   "kb": 10.9,
   "descricao": "Bicicletário: base de concreto com dois arcos amarelos em U invertido e uma bicicleta vermelha presa."
  },
+ "rua/botijao": {
+  "categoria": "rua",
+  "id": "botijao",
+  "tris": 120,
+  "kb": 8.4,
+  "descricao": "Botijão de gás cinza de cozinha, com base, ombro arredondado, válvula e a alça de proteção no alto."
+ },
  "rua/bueiro": {
   "categoria": "rua",
   "id": "bueiro",
@@ -293,12 +475,26 @@
   "kb": 6.9,
   "descricao": "Caixa d'água de polietileno: tanque azul de tampa cônica numa base baixa de concreto, de quintal ou laje."
  },
+ "rua/carrinho_mao": {
+  "categoria": "rua",
+  "id": "carrinho_mao",
+  "tris": 100,
+  "kb": 9.8,
+  "descricao": "Carrinho de mão de obra: caçamba de metal cheia de areia, roda na frente e os dois cabos para trás."
+ },
  "rua/carrinho_pipoca": {
   "categoria": "rua",
   "id": "carrinho_pipoca",
   "tris": 112,
   "kb": 11.4,
   "descricao": "Carrinho de pipoca: caixa vermelha com a vitrine de vidro, duas rodas, guidão e guarda-sol vermelho e branco."
+ },
+ "rua/cavalete_pf": {
+  "categoria": "rua",
+  "id": "cavalete_pf",
+  "tris": 84,
+  "kb": 7.4,
+  "descricao": "Cavalete de calçada em A, de madeira, com um quadro-negro que só mostra o desenho de um prato (sem letras)."
  },
  "rua/cone_transito": {
   "categoria": "rua",
@@ -328,6 +524,13 @@
   "kb": 7.6,
   "descricao": "Mesa e duas cadeiras de plástico brancas na calçada, como as de bar de bairro (sem logotipo)."
  },
+ "rua/monte_areia": {
+  "categoria": "rua",
+  "id": "monte_areia",
+  "tris": 48,
+  "kb": 5.3,
+  "descricao": "Monte de areia de obra na calçada, com uma pá fincada no alto."
+ },
  "rua/orelhao": {
   "categoria": "rua",
   "id": "orelhao",
@@ -349,6 +552,20 @@
   "kb": 9.0,
   "descricao": "Poste de concreto de rua: pilar afinando para cima, travessa com isoladores e braço com a luminária acesa."
  },
+ "rua/tanque_lavar": {
+  "categoria": "rua",
+  "id": "tanque_lavar",
+  "tris": 84,
+  "kb": 8.1,
+  "descricao": "Tanque de lavar roupa de cimento: cuba com água e esfregador, sobre um pé, com torneira e uma barra de sabão azul."
+ },
+ "rua/varal": {
+  "categoria": "rua",
+  "id": "varal",
+  "tris": 84,
+  "kb": 8.2,
+  "descricao": "Varal de quintal: arame esticado entre duas forquilhas de bambu, com três roupas coloridas penduradas."
+ },
  "rural/caixotes": {
   "categoria": "rural",
   "id": "caixotes",
@@ -362,6 +579,13 @@
   "tris": 60,
   "kb": 5.0,
   "descricao": "Cerca de mourões: três estacas de madeira tortas ligadas por dois fios de arame."
+ },
+ "rural/cocho_gado": {
+  "categoria": "rural",
+  "id": "cocho_gado",
+  "tris": 96,
+  "kb": 8.3,
+  "descricao": "Cocho de madeira para o gado com água, sobre dois pés, e um bloco de sal mineral branco ao lado."
  },
  "rural/colmeia": {
   "categoria": "rural",
@@ -390,6 +614,34 @@
   "tris": 144,
   "kb": 12.7,
   "descricao": "Canteiro de horta: caixa de madeira com terra, uma fileira de alfaces e outra de cenouras."
+ },
+ "rural/latao_leite": {
+  "categoria": "rural",
+  "id": "latao_leite",
+  "tris": 108,
+  "kb": 7.3,
+  "descricao": "Latões de leite de alumínio num estrado de madeira na beira da estrada, esperando a coleta."
+ },
+ "rural/moinho_vento": {
+  "categoria": "rural",
+  "id": "moinho_vento",
+  "tris": 136,
+  "kb": 10.6,
+  "descricao": "Cata-vento de bombear água: torre fina de metal com a roda de pás e o leme no alto, e a caixinha d'água no pé."
+ },
+ "rural/pilha_lenha": {
+  "categoria": "rural",
+  "id": "pilha_lenha",
+  "tris": 120,
+  "kb": 8.2,
+  "descricao": "Pilha de lenha de eucalipto cortada e arrumada entre duas estacas, toras finas deitadas em três camadas."
+ },
+ "rural/poco_caipira": {
+  "categoria": "rural",
+  "id": "poco_caipira",
+  "tris": 124,
+  "kb": 11.6,
+  "descricao": "Poço caipira de tijolo: boca redonda com água escura, sarilho com corda entre dois paus, telhadinho e o balde."
  },
  "rural/porteira": {
   "categoria": "rural",

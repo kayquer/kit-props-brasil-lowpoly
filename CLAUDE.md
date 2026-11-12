@@ -14,7 +14,7 @@ Kit of light low poly Brazilian props (CC0), one Blender Python script per model
 
 - Categories: natureza, fauna, rua, rural, rio, tecnologia, poluicao (≤ 150 tris each, no bevel/chanfro) and detalhados, arvores (≤ 1,500 tris). Every file ≤ 150 KB.
 - Author with the front toward Blender -Y (+X side also visible); `lib.exportar` rotates 180°, so the glTF front is -Z. Only `lib.PALETA` colors, flat.
-- Toy scale for a 2 × 2-unit lot (hydrant ≈ 0.3 tall). Land props on z = 0; water props on the surface (z = 0, slightly sunk). `rio/trapiche` juts 1.4 forward (-Y) from its base; `poluicao/manilha_esgoto` pours forward.
+- Toy scale for a 2 × 2-unit lot (hydrant ≈ 0.3 tall). Land props on z = 0; water props on the surface (z = 0, slightly sunk). `rio/trapiche` juts 1.4 forward (-Y) from its base; `poluicao/manilha_esgoto` and `poluicao/cano_pvc` pour forward; `poluicao/barranco_erodido`, `rio/covo` and `rio/pescaria` face the water with their front.
 - Props must stay small and simple: never look like a building (that is what the Low Poly City Kit is for).
 - Docstrings in pt-BR (the first sentence becomes the README description); no text/letters/real brands/logos; no gore; nothing third-party.
 - `src/lib.py` came from ../kit-cidade-lowpoly (own copy, extra colors at the end of PALETA). Never touch or push the Guardião da Água repo from kit work.

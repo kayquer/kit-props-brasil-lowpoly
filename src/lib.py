@@ -88,6 +88,15 @@ PALETA = {
     'branco': '#ffffff',
     'rosa': '#f2a7c3',
     'cacto': '#4f9a5a',
+    # Lote 2
+    'tijolo': '#b8603e',        # tijolo do poço, ninho de barro
+    'serragem': '#ead39c',      # serragem e madeira recém-cortada
+    'madeira_clara': '#d9b27a', # cerne de tora cortada
+    'prata': '#c8d2db',         # latão de leite, lambari
+    'azul_arara': '#2f6fd8',
+    'verde_sapo': '#62b83a',
+    'pvc': '#e9e9e4',           # cano de PVC
+    'banana': '#7fc241',        # folha de bananeira
 }
 
 _materiais = {}
