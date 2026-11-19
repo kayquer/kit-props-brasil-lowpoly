@@ -4,6 +4,8 @@
 
 ![Todos os props do Kit Props Brasil Low Poly lado a lado: natureza, fauna, rua, rural, rio, tecnologia sustentável e sinais de poluição](previews/capa.jpg)
 
+https://github.com/user-attachments/assets/87739f13-7867-4447-a7be-790e422ac37b
+
 ▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=QNr0wf4MUew)** · **[Baixe no itch.io](https://kkyqr.itch.io/low-poly-brazil-props-kit)** (grátis, doação opcional)
 
 > **Resposta curta:** o Kit Props Brasil Low Poly é um pacote **gratuito e em domínio público (CC0 1.0)** de

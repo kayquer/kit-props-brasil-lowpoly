@@ -4,6 +4,8 @@
 
 ![Every prop of the Low Poly Brazil Props Kit side by side: nature, wildlife, street, countryside, river, sustainable technology and pollution signs](previews/capa.jpg)
 
+https://github.com/user-attachments/assets/87739f13-7867-4447-a7be-790e422ac37b
+
 ▶️ **[Watch the video on YouTube](https://www.youtube.com/watch?v=QNr0wf4MUew)** · **[Download on itch.io](https://kkyqr.itch.io/low-poly-brazil-props-kit)** (free, optional donation)
 
 > **Short answer:** the Low Poly Brazil Props Kit (*Kit Props Brasil Low Poly*) is a **free, public domain
