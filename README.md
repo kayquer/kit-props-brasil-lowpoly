@@ -4,6 +4,8 @@
 
 ![Every prop of the Low Poly Brazil Props Kit side by side: nature, wildlife, street, countryside, river, sustainable technology and pollution signs](previews/capa.jpg)
 
+▶️ **[Watch the video on YouTube](https://www.youtube.com/watch?v=QNr0wf4MUew)** · **[Download on itch.io](https://kkyqr.itch.io/low-poly-brazil-props-kit)** (free, optional donation)
+
 > **Short answer:** the Low Poly Brazil Props Kit (*Kit Props Brasil Low Poly*) is a **free, public domain
 > (CC0 1.0)** pack of **low poly 3D props in glTF/GLB** that bring Brazilian scenery to games: wildflowers, termite
 > mounds, mandacaru cactus, water lilies, capybaras, egrets, the caramel street dog, the shell-shaped *orelhão*
